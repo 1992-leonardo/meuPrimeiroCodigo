@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Olah mundo " << std::endl;
+    std::cout << "Hellow word" << std::endl;
 
     return true;
 }
